@@ -1,0 +1,3 @@
+fetched: my_value
+fetched: modified
+fetched: value does not exist
